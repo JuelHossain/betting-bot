@@ -1,0 +1,4 @@
+Status: 401
+Headers: {'Date': 'Wed, 05 Mar 2025 18:42:12 GMT', 'Content-Type': 'application/json', 'Content-Length': '84', 'Connection': 'keep-alive', 'set-cookie': 'ASLBSA=0003787f61e8f826d63cc53fd2c6c21d213ae687115cb0306b7644e39c504771c5cc; Path=/; Secure; HttpOnly;, ASLBSACORS=0003787f61e8f826d63cc53fd2c6c21d213ae687115cb0306b7644e39c504771c5cc; SameSite=none; Path=/; Secure; HttpOnly;', 'x-azure-ref': '20250305T184212Z-r1794cf576f99ld7hC1BOSyrvc00000010r0000000006ts5', 'X-Cache': 'CONFIG_NOCACHE'}
+
+{ "statusCode": 401, "message": "Your Azure AD B2C settings might not be correct." }
